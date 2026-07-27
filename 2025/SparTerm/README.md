@@ -6,4 +6,3 @@
 * 학회/저널 : ArXiv 2020
 * 저자 : Yang Bai, Xiaoguang Li, Gang Wang, Chaoliang Zhang, Lifeng Shang, Jun Xu, Zhaowei Wang, Fangshan Wang, Qun Liu
 * 논문 : [[link]](https://arxiv.org/pdf/2010.00768)
-* 발표영상 : [link](https://youtu.be/31zZTOkTF80)
